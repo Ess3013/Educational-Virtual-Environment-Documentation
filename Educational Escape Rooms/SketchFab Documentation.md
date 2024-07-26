@@ -31,7 +31,7 @@ In the upload page, you can add annotations to your model by editing the model a
 
 The camera angle is saved with the annotation. Every time you click on the annotation, the camera will moved to the predefined angle for that annotation.
 
-![Camera Angle](image-2.png)
+![Camera Angle](chrome_tUV5CcsP7K.gif)
 
 
 ## Embedding 3D models as html element
