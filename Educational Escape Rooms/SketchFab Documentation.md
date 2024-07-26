@@ -1,5 +1,5 @@
 # What is SketchFab?
-[![Discover Sketchfab - Your 3D content online and in VR](https://www.youtube.com/watch?v=HsC08YcWBug.jpg)](https://www.youtube.com/watch?v=HsC08YcWBug)
+[![Discover Sketchfab - Your 3D content online and in VR](image.png)](https://www.youtube.com/watch?v=HsC08YcWBug)
 
 
 # How to use SketchFab?
