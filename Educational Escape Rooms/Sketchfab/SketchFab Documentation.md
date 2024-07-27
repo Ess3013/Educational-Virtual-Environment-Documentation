@@ -36,3 +36,21 @@ The camera angle is saved with the annotation. Every time you click on the annot
 
 ## Embedding 3D models as html element
 
+You can embed any 3D model found on Sketchfab as an html element in Escapp or any website. To do so, you can follow the following steps:
+
+1. Choose the model you want either through exploring or searching on Sketchfab.
+2. Open the model and click on **Embed**.
+
+![Embed](https://github.com/user-attachments/assets/5c310d26-ff21-4028-859f-4ab31469fdc3)
+
+3. Choose the embedding settings you prefer like window size, watermark, autostart, or showing annotations.
+4. Copy to Clipboard.
+
+![Copy to Clipboard](https://github.com/user-attachments/assets/b06a80c4-9409-4fd6-b9ce-820197d20c4a)
+
+5. Go to Escapp or your website and paste the embedding code you copied.
+
+![Escapp Embedding](https://github.com/user-attachments/assets/be750f5a-dca4-40cb-9631-3e7ec45d88c7)
+
+
+
