@@ -1,5 +1,6 @@
-# What is Escapp?
- Escapp is a website used to make different shapes of puzzles by allowing you to use external photos, 3d models and code to create what you need.
+What is Escapp?
+======================
+Escapp is a website used to make different shapes of puzzles by allowing you to use external photos, 3d models and code to create what you need.
 # How to use Escapp?
 1- first, you should create a teacher account
 
