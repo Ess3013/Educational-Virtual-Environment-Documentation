@@ -66,3 +66,26 @@ The third tag **Embed** can be used to embed any html element or youtube videos.
 
 ![chrome_C5CwEiNzhe](https://github.com/user-attachments/assets/7ba85a49-43ce-4251-b429-22f7ecfb661f)
 
+The fourth tag **Transit** allows you to transition to another media to make point-and-click experiences.
+
+![chrome_x8cOV0UBGS](https://github.com/user-attachments/assets/caa9c823-ace0-44ad-8358-951f38940042)
+
+This is how a transit looks like to the user.
+
+![chrome_uNN0Ipuqwh](https://github.com/user-attachments/assets/d70067b5-5c2c-451c-b145-288ba04dd84b)
+
+The last tag **Poll** works in a similar manner to the other tags but it tracks the users clicks on the poll and provides choice percentages.
+
+##### Example
+
+You can see most of the steps and tags mentioned above being used in this [example](https://www.thinglink.com/view/scene/1891618027372282724).
+
+#### 3D model
+
+3D models can be imported in most common formats and you can insert tags exactly like inserting tags in images. You can upload a 3D model as shown below.
+
+![chrome_1i5ZEXxAX5](https://github.com/user-attachments/assets/764ea5ad-94cb-4eae-81ad-de8eeb9f8a35)
+
+Once you have uploaded your 3D model you can add tags by clicking on the part where you want your tag to be. After that, you can insert text or embed an html element, a youtube video, an audio, or a link.
+
+![chrome_iENgNJ6BwA](https://github.com/user-attachments/assets/77eeb1f4-d969-4495-96d9-3772f4f7b39f)
