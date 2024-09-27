@@ -33,3 +33,36 @@ You can start with your first multimedia project by clicking on:
 
 ![chrome_ZVpNjsx22p](https://github.com/user-attachments/assets/65605c03-2563-4012-9e06-3a7408f06c2d)
 
+#### Image
+
+The first type of media you can use is an image. You can uplaod an image as shown below.
+
+![chrome_zX16VhE3Zh](https://github.com/user-attachments/assets/72c9a35d-8fb3-4e25-824d-f382993139a0)
+
+Once you upload an image, you will see a bunch of options to add interactions to the image like:
+- Add tag
+- Settings
+- Done
+
+**Add tag** button allows you to add different types of tags or annotations to your image like:
+- Text and media
+- Text label
+- Embed
+- Transit
+- Poll
+Each one of these tags has a specific look and purpose which will be explained below.
+
+The first tag **Text and media** allows you to insert any text, image, or video inside the tag as shown below. You can change the tag icon, write a title, and write a description or body text.
+
+![chrome_mkmTMba5fL](https://github.com/user-attachments/assets/64aa36d5-7613-48a2-8285-58e58c3e6ed7)
+
+The second tag **Text label** allows you to insert text that appears in a small label instead of a large popup.
+
+![chrome_deRfY4EX74](https://github.com/user-attachments/assets/fb93a886-f47e-45d1-afcf-3340c9647a92)
+
+The third tag **Embed** can be used to embed any html element or youtube videos.
+
+![chrome_MUV8JWdLZu](https://github.com/user-attachments/assets/74055e9f-6869-4076-a48d-0af18452da76)
+
+![chrome_C5CwEiNzhe](https://github.com/user-attachments/assets/7ba85a49-43ce-4251-b429-22f7ecfb661f)
+
