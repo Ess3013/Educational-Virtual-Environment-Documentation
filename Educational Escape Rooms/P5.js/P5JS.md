@@ -19,7 +19,15 @@ After signing up you will find an interface that consists of a code editor, a pr
 
 ![chrome_RdScGpmppB](https://github.com/user-attachments/assets/cad3afe0-2db1-4f4c-a729-eb3d9f0d7661)
 
+## Manual Coding
+
 You can approach coding on p5.js in one of two ways. You can either learn the basics of the library and write your own code, or you can ask AI to write you the code you need by describing your requirement to it.
 
 To learn the library you can access the p5.js [**_Reference_**](https://p5js.org/reference/) page to learn all the built-in functions with their examples. You can also explore dozens of public [**_examples_**](https://editor.p5js.org/p5/sketches) to learn about the endless possibilities of using p5.js.
 
+## AI-assisted Coding
+
+You can use any AI tool to write your code like [ChatGPT](https://chatgpt.com/), [Copilot](https://copilot.microsoft.com/), [Gemini](https://gemini.google.com/u/0/app), or [Claude AI](https://claude.ai/login?returnTo=%2F%3F).
+
+These AI models are very good at writing code. However, they can only code as good as the prompt you give them. Therefore, there are no rules for coding on p5.js using AI, but you should keep a few things in mind about your prompt to get the desired code from them:
+- 
