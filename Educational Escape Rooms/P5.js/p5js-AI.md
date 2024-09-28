@@ -30,4 +30,8 @@ To learn the library you can access the p5.js [**_Reference_**](https://p5js.org
 You can use any AI tool to write your code like [ChatGPT](https://chatgpt.com/), [Copilot](https://copilot.microsoft.com/), [Gemini](https://gemini.google.com/u/0/app), or [Claude AI](https://claude.ai/login?returnTo=%2F%3F).
 
 These AI models are very good at writing code. However, they can only code as good as the prompt you give them. Therefore, there are no rules for coding on p5.js using AI, but you should keep a few things in mind about your prompt to get the desired code from them:
-- 
+- Mention the language or library you want (p5.js in this case).
+- Don't let the AI conclude what you want. Give them as much details as you can.
+- Try the code and give detailed feedback for edits.
+
+Another use for AI in the workflow is to get inspiration for escape rooms and puzzles from it, which greatly reduces workload on the educator and lets the AI do the heavy lifting.
