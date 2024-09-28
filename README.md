@@ -8,15 +8,22 @@ Educational escape rooms have become a hot topic in education research due to th
 
 To create your own educational escape rooms you can utilize the workflow that we have put together to make the process efficient and accessible. The workflow consists of a few websites and platforms that can be merged nicely to produce a complete educational escape room experience.
 
-[Escapp](https://github.com/Ess3013/Educational-Virtual-Environment-Documentation/blob/a43e71f7b2913145632b794a80f3d0cbf1b67e7e/Educational%20Escape%20Rooms/Escapp/Docs.md)
+### [Escapp](https://github.com/Ess3013/Educational-Virtual-Environment-Documentation/blob/a43e71f7b2913145632b794a80f3d0cbf1b67e7e/Educational%20Escape%20Rooms/Escapp/Docs.md)
 
 Escapp is an online platform designed to help educators create and manage educational escape rooms, both in-person and remotely. It provides a user-friendly interface for teachers to build their own escape room experiences, including puzzles, clues, and challenges. Escapp also offers features for student registration, team formation, progress monitoring, and hint management.
 
-### Sketchfab
+### [Sketchfab](https://github.com/Ess3013/Educational-Virtual-Environment-Documentation/blob/a43e71f7b2913145632b794a80f3d0cbf1b67e7e/Educational%20Escape%20Rooms/Sketchfab/SketchFab%20Documentation.md)
 
-### ThingLink
+Sketchfab is a powerful online platform that allows users to upload, share, and explore 3D models in an interactive way. Whether you're an artist, designer, or enthusiast, Sketchfab provides a dynamic space to showcase your creations and discover others' work. With its intuitive interface and extensive community, Sketchfab makes 3D content accessible and engaging. Watch this video to see all the features Sketchfab has to offer!
 
-### p5.js
+### [ThingLink](https://github.com/Ess3013/Educational-Virtual-Environment-Documentation/blob/a43e71f7b2913145632b794a80f3d0cbf1b67e7e/Educational%20Escape%20Rooms/ThingLink/ThingLink.md)
 
+ThingLink is an innovative platform that enables users to create interactive and immersive experiences by annotating images, videos, and 3D models with rich media links. Launched with the vision of bridging the physical and digital worlds, ThingLink caters to a diverse audience, including educators, marketers, and corporate trainers, allowing them to enhance engagement and learning outcomes. You can learn more about it in this video.
+
+### [p5.js](https://github.com/Ess3013/Educational-Virtual-Environment-Documentation/blob/a43e71f7b2913145632b794a80f3d0cbf1b67e7e/Educational%20Escape%20Rooms/P5.js/p5js-AI.md)
+
+p5.js is a friendly tool for learning to code and make art. It is a free and open-source JavaScript library built by an inclusive, nurturing community. p5.js welcomes artists, designers, beginners, educators, and anyone else!
+
+It can be used to make interactive games or activities using html elements like text, buttons, sliders or shapes like squares and circles. p5.js is limitless in its capabilities for all artistic or interactive projects.
 
 # CAVE
