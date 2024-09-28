@@ -1,6 +1,8 @@
 What is Escapp?
 ======================
-Escapp is a website used to make different shapes of puzzles by allowing you to use external photos, 3d models and code to create what you need.
+Escapp is an online platform designed to help educators create and manage educational escape rooms, both in-person and remotely. It provides a user-friendly interface for teachers to build their own escape room experiences, including puzzles, clues, and challenges. Escapp also offers features for student registration, team formation, progress monitoring, and hint management.   
+
+Essentially, Escapp is a tool that simplifies the process of creating and conducting educational escape rooms, making them more accessible and effective for teachers and students alike.
 # How to use Escapp?
 1- first, you should create a teacher account
 
